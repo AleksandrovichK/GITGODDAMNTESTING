@@ -1,2 +1,6 @@
 Fourth commit
+<<<<<<< Updated upstream
 And one more line
+=======
+And one more line
+>>>>>>> Stashed changes
