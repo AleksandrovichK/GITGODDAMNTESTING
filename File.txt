@@ -1,2 +1,3 @@
 Now let's try reset
 Second after last
+Third after last
